@@ -11,7 +11,7 @@
 
 ### 參考教學影片
 [觀看教學影片](https://youtu.be/vRCV38wrl9s?si=r_Bh9LgAOzSRO-0J) 
-- REF：永久免費使用正版Office！微軟官方 LTSC 2024 長期服務版安裝教學 ，簡單易懂！ | 零度解說. YouTube. (2024, October 16).
+- REF：零度解说. (2024, October 16). *永久免费使用正版Office!微软官方 LTSC 2024 长期服务版安装教程 ,简单易懂!| 零度解说* [Online]. YouTube. https://www.youtube.com/watch?v=vRCV38wrl9s
 
 ### 下載與工具
 1. **Office 軟體部署工具**：  
