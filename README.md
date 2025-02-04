@@ -1,4 +1,4 @@
-# Office LTSC Professional Plus 2024 部署指南
+# 正版 Office 永久免费使用
 
 ## 1. 配置文件 (config.xml) 包含
 - **Office LTSC Professional Plus 2024**
