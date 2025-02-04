@@ -46,7 +46,11 @@ setup /configure config.xml
 ### **步驟 3：啟動 Office**
 ```sh
 cd C:\Program Files\Microsoft Office\Office16
+```
+```sh
 cscript ospp.vbs /sethst:kms.03k.org
+```
+```sh
 cscript ospp.vbs /act
 ```
 
