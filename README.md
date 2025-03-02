@@ -33,7 +33,7 @@
 2. **以管理員身份執行 CMD 進入命令終端**
 3. **在 CMD 中無法轉跳到其他資料夾解決方法，使用`cd /d yourPath`**
 
-### **步驟 1：下載 Office 安裝檔案 (該資料夾中已有 config.xml)**
+### **步驟 1：下載 Office 安裝檔案 (該儲存庫中已有 config.xml，可略。)**
 ```sh
 setup /download config.xml
 ```
