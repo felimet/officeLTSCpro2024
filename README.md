@@ -1,4 +1,4 @@
-# 透過官方下載，享受正版 Office 永久免費使用 !
+# 透過官方下載，永久免費使用正版 Office !
 
 ## 1. 配置文件 (config.xml) 包含
 - **Office LTSC Professional Plus 2024**
