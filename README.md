@@ -1,6 +1,6 @@
 # 透過官方下載，永久免費使用正版 Office !
 
-## 1. 配置文件 (config.xml) 包含
+## 1. 配置文件 (config.xml) 為 x64 版本包含
 - **Office LTSC Professional Plus 2024**
 - **Visio LTSC Professional 2024**
 - **Project Professional 2024**
@@ -29,7 +29,7 @@
 
 ### **❗ 先移除舊版本**
 
-1. **進入 `office_2024_x64` 資料夾**。
+1. **進入 `officeLTSCpro2024` 資料夾**。
 2. **以管理員身份執行 CMD 進入命令終端**。
 3. **在 CMD 中無法轉跳到其他資料夾解決方法，使用 `cd /d yourPath`**。
 
