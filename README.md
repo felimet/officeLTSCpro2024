@@ -33,7 +33,13 @@
 2. **以管理員身份執行 CMD 進入命令終端**。
 3. **在 CMD 中無法轉跳到其他資料夾解決方法，使用 `cd /d yourPath`**。
 
-### **步驟 1：下載 Office 安裝檔案 (該儲存庫中已有 config.xml，可略。)**
+### 前置作業
+下載該儲存庫
+```sh
+git clone https://github.com/felimet/officeLTSCpro2024.git
+```
+
+### **步驟 1：下載 Office 安裝檔案 (該儲存庫中已有 config.xml，直接執行指令即可。)**
 ```sh
 setup /download config.xml
 ```
