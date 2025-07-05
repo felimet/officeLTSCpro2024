@@ -73,4 +73,15 @@ cscript ospp.vbs /act
 - 該 `config.xml` 為 Office LTSC 2024 版本。
 - 若需安裝其他版本與軟體，請參考 [2. 參考資源](#2-參考資源)。
 
+---
+
+## Star History
+
+<a href="https://www.star-history.com/#felimet/officeLTSCpro2024&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=felimet/officeLTSCpro2024&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=felimet/officeLTSCpro2024&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=felimet/officeLTSCpro2024&type=Date" />
+ </picture>
+</a>
 
