@@ -7,25 +7,7 @@
 
 ---
 
-## 2. 參考資源
-
-### 參考教學影片
-[觀看教學影片](https://youtu.be/vRCV38wrl9s?si=r_Bh9LgAOzSRO-0J) 
-- REF：零度解说. (2024, October 16). *永久免费使用正版Office!微软官方 LTSC 2024 长期服务版安装教程 ,简单易懂!| 零度解说* [Online]. YouTube. https://www.youtube.com/watch?v=vRCV38wrl9s
-
-### 下載與工具
-1. **Office 軟體部署工具**：  
-   [下載連結](https://www.microsoft.com/en-us/download/details.aspx?id=49117)
-
-2. **Office 版本自訂工具**：  
-   [開啟工具](https://config.office.com/deploymentsettings)
-
-3. **基於 KMS 的 GVLK**：  
-   [官方文檔](https://learn.microsoft.com/zh-cn/deployoffice/vlactivation/gvlks)
-
----
-
-## 3. 安裝步驟
+## 2. 快速安裝
 
 ### **❗ 先移除舊版本**
 
@@ -58,6 +40,24 @@ cscript ospp.vbs /sethst:kms.03k.org
 ```sh
 cscript ospp.vbs /act
 ```
+
+---
+
+## 3. 參考資源
+
+### 參考教學影片
+[觀看教學影片](https://youtu.be/vRCV38wrl9s?si=r_Bh9LgAOzSRO-0J) 
+- REF：零度解说. (2024, October 16). *永久免费使用正版Office!微软官方 LTSC 2024 长期服务版安装教程 ,简单易懂!| 零度解说* [Online]. YouTube. https://www.youtube.com/watch?v=vRCV38wrl9s
+
+### 下載與工具
+1. **Office 軟體部署工具**：  
+   [下載連結](https://www.microsoft.com/en-us/download/details.aspx?id=49117)
+
+2. **Office 版本自訂工具**：  
+   [開啟工具](https://config.office.com/deploymentsettings)
+
+3. **基於 KMS 的 GVLK**：  
+   [官方文檔](https://learn.microsoft.com/zh-cn/deployoffice/vlactivation/gvlks)
 
 ---
 
