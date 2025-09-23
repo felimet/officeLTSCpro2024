@@ -17,12 +17,12 @@
 
 ### **前置作業 (下載該儲存庫)**
 ```sh
-# 該儲存庫中已有 config.xml，直接執行指令即可。
 git clone https://github.com/felimet/officeLTSCpro2024.git
 ```
 
 ### **步驟 1：下載 Office 安裝檔案 (該儲存庫中已有 config.xml，直接執行指令即可。)**
 ```sh
+# 該儲存庫中已有 config.xml，直接執行指令即可。
 setup /download config.xml
 ```
 
@@ -85,5 +85,6 @@ cscript ospp.vbs /act
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=felimet/officeLTSCpro2024&type=Date" />
  </picture>
 </a>
+
 
 
