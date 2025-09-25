@@ -1,6 +1,6 @@
 # 透過官方下載，永久免費使用正版 Office !
 
-## 1. 配置文件 (config.xml) 為 x64 版本包含
+## 1. 配置文件 (config.xml) 為 x64 版本包含以下
 - **Office LTSC Professional Plus 2024**
 - **Visio LTSC Professional 2024**
 - **Project Professional 2024**
@@ -85,6 +85,7 @@ cscript ospp.vbs /act
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=felimet/officeLTSCpro2024&type=Date" />
  </picture>
 </a>
+
 
 
 
